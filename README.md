@@ -1,6 +1,7 @@
-=> this app build by javascript mastry youtube channel 
-=> i just clone it for understand new technology
-=> tech uses => reduxjs/toolkit,rtk query for api call, rapid api, swiper, etc.
+# Note
+### this app build by javascript mastry youtube channel 
+### i just clone it for understand new technology
+### tech uses => reduxjs/toolkit,rtk query for api call, rapid api, swiper, etc.
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
